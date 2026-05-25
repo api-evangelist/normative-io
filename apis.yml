@@ -1,0 +1,82 @@
+aid: normative-io
+name: Normative
+description: >-
+  Normative is a Stockholm, Sweden-based carbon accounting and ESG reporting
+  software company helping enterprises measure, report, and reduce their
+  greenhouse gas emissions across scopes 1, 2, and 3. Its platform combines a
+  library of more than 349,000 region- and sector-specific emission factors
+  with workflows for product carbon footprint (PCF), supply chain engagement,
+  Science Based Targets initiative (SBTi) target setting, Corporate
+  Sustainability Reporting Directive (CSRD) disclosure, and Carbon Border
+  Adjustment Mechanism (CBAM) reporting. Calculations are built to the GHG
+  Protocol and independently verified by TÜV SÜD against ISO/IEC 25051.
+  Customers include Vodafone, Hertz, Hitachi Rail, and Flying Tiger Copenhagen,
+  and every account is paired with a named, GHG Protocol-certified Climate
+  Strategy Advisor rather than a traditional support helpdesk. The company's
+  revenue model is enterprise SaaS subscriptions plus advisory services;
+  Normative does not publish a public developer API, SDK, or open-source
+  release, and its GitHub organization (normative-io) currently exposes no
+  public repositories.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Carbon Accounting
+  - ESG Reporting
+  - Sustainability
+  - CSRD
+  - CBAM
+  - SBTi
+  - GHG Protocol
+  - Scope 3 Emissions
+  - Product Carbon Footprint
+  - Supply Chain
+  - Climate Tech
+  - Net Zero
+  - Enterprise SaaS
+url: https://raw.githubusercontent.com/api-evangelist/normative-io/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://normative.io
+  - type: Platform
+    url: https://normative.io/platform
+  - type: CarbonAccounting
+    url: https://normative.io/platform/carbon-accounting
+  - type: ProductCarbonFootprint
+    url: https://normative.io/platform/product-carbon-footprint
+  - type: SupplyChainEngagement
+    url: https://normative.io/platform/supply-chain-engagement
+  - type: CarbonExpertise
+    url: https://normative.io/platform/carbon-expertise
+  - type: SBTi
+    url: https://normative.io/platform/sbti
+  - type: CSRD
+    url: https://normative.io/platform/csrd-solution
+  - type: CBAM
+    url: https://normative.io/platform/cbam-reporting
+  - type: Pricing
+    url: https://normative.io/pricing
+  - type: Customers
+    url: https://normative.io/customers
+  - type: Resources
+    url: https://normative.io/resources
+  - type: Blog
+    url: https://normative.io/blog
+  - type: About
+    url: https://normative.io/about
+  - type: Careers
+    url: https://normative.io/careers
+  - type: Contact
+    url: https://normative.io/contact
+  - type: GitHub
+    url: https://github.com/normative-io
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/normative-io
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
