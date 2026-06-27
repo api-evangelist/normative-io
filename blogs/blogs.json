@@ -2,14 +2,20 @@
   "repo": "normative-io",
   "feeds": [
     {
-      "source": "https://normative.io/insight",
-      "error": "HTTPError"
+      "source": "https://normative.io/insights",
+      "feed_url": "https://normative.io/insights/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
     },
     {
       "source": "https://normative.io/resources",
-      "error": "HTTPError"
+      "feed_url": "https://normative.io/resources/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
     }
   ],
-  "post_count": 1,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T12:03:07Z",
+  "post_count": 1
 }
