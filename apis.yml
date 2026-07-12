@@ -41,6 +41,12 @@ modified: '2026-05-24'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: TrustCenter
+    url: security/normative-io-trust-center.yml
+  - type: VulnerabilityDisclosure
+    url: security/normative-io-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/normative-io-domain-security.yml
   - type: Website
     url: https://normative.io
   - type: Platform
